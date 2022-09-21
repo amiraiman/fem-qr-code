@@ -49,15 +49,18 @@ body {
 }
 
 .card-body {
-    padding: 1.5rem 2rem 3rem;
+    padding: 2rem 2rem 3rem;
     text-align: center;
 }
 
 .card-title {
     font-size: 2rem;
-    margin-bottom: 1.5rem;
+    margin-bottom: 2rem;
 }
 
+.card-text {
+    color: var(--blue-gray);
+}
 /* .attribution { */
 /*   font-size: 11px; */
 /*   text-align: center; */
