@@ -35,15 +35,16 @@ body {
 
 .card {
     background-color: var(--white);
-    border-radius: 1rem;
-    box-shadow: 0 5px 10px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 2rem;
+    box-shadow: 0 3px 1px 0px rgba(0, 0, 0, 0.1),
+        0 15px 10px 0px rgba(150, 150, 150, 0.1);
     max-width: 30rem;
     padding: 1.5rem;
     overflow: hidden;
 }
 
 .card-image {
-    border-radius: 1rem;
+    border-radius: 2rem;
     height: auto;
     width: 100%;
 }
