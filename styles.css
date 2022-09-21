@@ -3,32 +3,32 @@
  * dekstop width: 1440px;
  */
 :root {
-  --white: hsl(0, 0%, 100%);
-  --gray-light: hsl(212, 45%, 89%);
-  --blue-gray: hsl(220, 15%, 55%);
-  --blue-dark: hsl(218, 44%, 22%);
+    --white: hsl(0, 0%, 100%);
+    --gray-light: hsl(212, 45%, 89%);
+    --blue-gray: hsl(220, 15%, 55%);
+    --blue-dark: hsl(218, 44%, 22%);
 }
 
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 html {
-  font-size: 62.5%;
-  font-family: "Outfit", sans-serif;
+    font-size: 62.5%;
+    font-family: "Outfit", sans-serif;
 }
 
 p {
-  font-size: 1.5rem;
+    font-size: 1.5rem;
 }
 
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
+/* .attribution { */
+/*   font-size: 11px; */
+/*   text-align: center; */
+/* } */
+/**/
+/* .attribution a { */
+/*   color: hsl(228, 45%, 44%); */
+/* } */
